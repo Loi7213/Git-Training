@@ -30,4 +30,4 @@ result = detect_face(image_path)
 if result:
     print(f"Tọa độ bounding box: {result}")
 else:
-    print("Không tìm thấy khuôn mặt trong ảnh.")
+    print("Không tìm thấy khuôn mặt trong ảnh!")
